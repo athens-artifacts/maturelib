@@ -1,1 +1,1 @@
-module github.com/athens-artifacts/maturelib
+module github.com/athens-artifacts/maturelib/v2
